@@ -1,7 +1,7 @@
 # MasteringCuTe
 How does one learn and master CuTe ?
 
-Step 1 : Look at existing [documentation](https://github.com/NVIDIA/cutlass/tree/main/media/docs/cute)
+Step 1 : Look at existing [documentation](https://github.com/NVIDIA/cutlass/tree/main/media/docs/cute) and GTC Talks from NVIDIA
 * Run standalone CuTe examples to learn the basics
 * Addtionally checkout other online content like this CUDA Mode [Talk](https://www.youtube.com/watch?v=G6q719ck7ww) or [this blog](https://leimao.github.io/article/CuTe-Layout-Algebra/) from Lei Mao
 * If interested read up about [CuTe Algebra](https://research.colfax-intl.com/a-note-on-the-algebra-of-cute-layouts/)
